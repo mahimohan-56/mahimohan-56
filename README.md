@@ -1,4 +1,4 @@
-# <div align="center"> Welcome to My Github profile 👋></div>
+# <div align="center"> Welcome to My Github profile 👋</div>
 
 <div align="center">
 
@@ -57,11 +57,6 @@ I'm a passionate **MERN Stack Developer** from India, dedicated to building mode
 <br/>
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owais-khan-zai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owais-khan-zai&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1b27&title_color=3B82F6&text_color=c9d1d9"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=owais-khan-zai&theme=radical&hide_border=true&background=1a1b27&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
