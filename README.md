@@ -1,10 +1,13 @@
 # <div align="center">👋 Welcome to My Development Space</div>
 
 <div align="center">
+
 <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?backgroundColor=%23121212&lines=%5B%7B%22text%22%3A%22Hi%21+I%27m+Mahi+Mohan+Tripathy%22%2C%22color%22%3A%22%23fcf8f8%22%2C%22fontSize%22%3A18%2C%22typingSpeed%22%3A0.3333333333333333%2C%22deleteSpeed%22%3A0.2%7D%5D" alt="Typing SVG" /></a>
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square&logo=react&logoColor=white" />
-   <img src="https://img.shields.io/badge/Open%20to-Opportunities-red?style=flat-square" />
-  </p>
+ 
+<p>   
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-red?style=flat-square" />
+</p>
 
 </div>
 
