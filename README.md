@@ -2,8 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Owais+Khan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;React+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;Building+Modern+Web+Experiences+%E2%9C%A8](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hi+I%27m+Mahi+Mohan+Tripathy%22%2C%22color%22%3A%22%231666d0%22%7D%5D))
-  
+ <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hi%21+I%27m+Mahi+Mohan+Tripathy%22%2C%22color%22%3A%22%23ffffff%22%7D%5D" alt="Typing SVG" /></a>
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square&logo=react&logoColor=white" />
    <img src="https://img.shields.io/badge/Open%20to-Opportunities-red?style=flat-square" />
