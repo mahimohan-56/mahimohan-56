@@ -1,4 +1,4 @@
-# <div align="center"> Welcome to My Github profile <img src="https://em-content.zobj.net/source/apple/271/waving-hand_1f44b.png" loading="lazy" alt="iOS 14.2" class="w-auto h-full"></div>
+# <div align="center"> Welcome to My Github profile <img src="https://em-content.zobj.net/source/apple/271/waving-hand_1f44b.png" loading="lazy" alt="iOS 14.2" class="width-20px height-20px"></div>
 
 <div align="center">
 
