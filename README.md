@@ -109,11 +109,9 @@ I'm currently diving deeper into advanced backend development so I can build mor
 ### 📂 Professional Resources
 
 <p align="center">
-  <a href="https://www.canva.com/design/DAG3FweohWg/Gaz8XINAgvuIuKjdU_Op5Q/view?utm_content=DAG3FweohWg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0155420122">
-    <img src="https://img.shields.io/badge/📄_Resume-View%20My%20CV-FF5722?style=for-the-badge" alt="Resume" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/owais-khan-zai">
+ 
+  
+  <a href="https://github.com/mahimohan-56">
     <img src="https://img.shields.io/badge/💼_Portfolio-Explore%20Projects-00C853?style=for-the-badge" alt="Portfolio" height="40"/>
   </a>
 </p>
