@@ -1,4 +1,4 @@
-# <div align="center">👋 Welcome to My <img src="https://brand.github.com/_next/static/media/logo-03.cc5e5332.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1600px; height: 138px; margin: 143px 0px; width: 372px;" alt="Logo - Brand Toolkit" jsname="kn3ccd"> profile</div>
+# <div align="center"> Welcome to My Github profile <img src="https://em-content.zobj.net/source/apple/271/waving-hand_1f44b.png" loading="lazy" alt="iOS 14.2" class="w-auto h-full"></div>
 
 <div align="center">
 
