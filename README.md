@@ -109,9 +109,8 @@ I'm currently diving deeper into advanced backend development so I can build mor
 ### 📂 Professional Resources
 
 <p align="center">
- 
   
-  <a href="https://github.com/mahimohan-56">
+  <a href="https://portfolio-mmt.vercel.app/">
     <img src="https://img.shields.io/badge/💼_Portfolio-Explore%20Projects-00C853?style=for-the-badge" alt="Portfolio" height="40"/>
   </a>
 </p>
